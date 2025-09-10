@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="left">Bem vindo(a) ao meu perfil</h4>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letis-li/letis-li/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letis-li/letis-li/output/pacman-contribution-graph.svg">
@@ -26,7 +30,6 @@
 
 ###
 
-<p align="left">💻 Graduanda em Ciências da Computação</p>
-<p align="left">📊 Interesse em Desenvolvimento e Análise de Dados</p>
-<p align="left">📖 Estudando: Power BI, Javascript, C</p>
+<p align="left">💻 Graduanda em Ciências da Computação<br>📊 Interesse em Desenvolvimento e Análise de Dados<br>📖 Estudando: Power BI, Javascript, C</p>
 
+###
