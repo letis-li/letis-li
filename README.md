@@ -27,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-
+<br>
 <p align="left">💻 Graduanda em Ciências da Computação<br>📊 Interesse em Desenvolvimento e Análise de Dados<br>📖 Estudando: Power BI, Javascript, C</p>
 
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-###
+
