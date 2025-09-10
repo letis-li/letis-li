@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Bem vindo(a) ao meu perfil</h4>
+<h4 align="left">Bem vindo(a) ao meu perfil (●'◡'●)</h4>
 
 ###
 
