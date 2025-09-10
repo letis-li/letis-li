@@ -1,16 +1,17 @@
 <h1 align="left">💚 Olá, meu nome é Letícia Li!</h1>
 
-###
 
 <h4 align="left">Bem vindo(a) ao meu perfil (●'◡'●)</h4>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letis-li/letis-li/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letis-li/letis-li/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/letis-li/letis-li/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -30,4 +31,6 @@
 
 <p align="left">💻 Graduanda em Ciências da Computação<br>📊 Interesse em Desenvolvimento e Análise de Dados<br>📖 Estudando: Power BI, Javascript, C</p>
 
+###
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 ###
