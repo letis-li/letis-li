@@ -29,5 +29,4 @@
 <p align="left">💻 Graduanda em Ciências da Computação</p>
 <p align="left">📊 Interesse em Desenvolvimento e Análise de Dados</p>
 <p align="left">📖 Estudando: Power BI, Javascript, C</p>
-###
 
